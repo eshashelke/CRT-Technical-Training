@@ -90,7 +90,7 @@ Implemented Merge Sort using recursion and divide-and-conquer strategy.
 - Sort an array using Bubble Sort
 - Sort an array using Selection Sort
 - Merge two sorted arrays
-- Sort array using Merge Sort algorithm
+- Sort array using Merge Sort 
 
 ---
 
