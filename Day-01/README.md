@@ -30,7 +30,6 @@ Implemented recursive solutions for:
 - Sum of First N Natural Numbers
 
 ---
-
 ## Concepts Learned
 
 - Arrays in Java
@@ -49,7 +48,6 @@ Implemented recursive solutions for:
 | Day1.java | Contains all Day 1 programs including array operations, number reversal, and recursion examples. |
 
 ---
-
 ## Output Highlights
 
 - Reverse a Number
